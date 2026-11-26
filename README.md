@@ -1,10 +1,12 @@
 <div align="center">
 
-# Tomás Muñoz
+<img src="assets/banner.png" width="100%" alt="toomas.mz - Desarrollador de Software" />
 
-**Desarrollador de Software** · Mendoza, Argentina
+<br/>
 
-[Impulsar Studio](https://github.com/Franv-Dev/ImpulsarStudio) · [Proyectos](#proyectos) · [Contacto](#contacto)
+[![Impulsar Studio](https://img.shields.io/badge/Impulsar_Studio-DC2626?style=flat-square)](https://github.com/Franv-Dev/ImpulsarStudio)
+[![Proyectos](https://img.shields.io/badge/Proyectos-111111?style=flat-square)](#proyectos)
+[![Contacto](https://img.shields.io/badge/Contacto-111111?style=flat-square)](#contacto)
 
 </div>
 
