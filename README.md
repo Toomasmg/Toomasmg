@@ -1,113 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:7C3AED&height=220&section=header&text=Tomy%20Mu%C3%B1oz&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Desarrollador%20de%20Software&descAlignY=56&descSize=22&animation=fadeIn" width="100%" alt="Banner" />
+# Tomás Muñoz
 
-<a href="https://github.com/Toomasmg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Creo+sitios+web+y+sistemas+que+venden;Python+%C2%B7+Flask+%C2%B7+React+%C2%B7+TypeScript;Del+dise%C3%B1o+al+deploy%2C+de+punta+a+punta" alt="Typing SVG" />
-</a>
+**Desarrollador de Software** · Mendoza, Argentina
 
-<br/>
-
-[![Impulsar Studio](https://img.shields.io/badge/Impulsar_Studio-Ver_proyecto-7C3AED?style=for-the-badge)](https://github.com/Franv-Dev/ImpulsarStudio)
-[![Contacto](https://img.shields.io/badge/Hablemos-Contacto-A78BFA?style=for-the-badge)](#-contacto)
+[Impulsar Studio](https://github.com/Franv-Dev/ImpulsarStudio) · [Proyectos](#proyectos) · [Contacto](#contacto)
 
 </div>
 
 ---
 
-## 🎯 Lo que hago
+## Perfil
 
-Ayudo a negocios a **tener presencia digital profesional** y a **automatizar lo que hoy hacen a mano**.
+Desarrollador de software, con formación en Desarrollo de Software y experiencia en sistemas de gestión, bases de datos, interfaces web y APIs. Trabajo con metodologías ágiles y priorizo código mantenible, seguro y pensado para crecer.
 
-| Servicio | Para qué sirve |
+Llevo adelante **Impulsar Studio**, mi emprendimiento, donde desarrollo sitios web, landing pages, catálogos digitales y sistemas a medida para negocios.
+
+---
+
+## Servicios
+
+| Servicio | Descripción |
 |---|---|
-| 🌐 **Sitios web y landing pages** | Presencia clara, rápida y pensada para convertir visitas en consultas |
-| 📖 **Catálogos y menús digitales** | Productos y precios siempre actualizados, sin imprimir de nuevo |
-| 🧩 **Sistemas a medida** | Gestión de clientes, turnos, stock o asistencias, a la medida del negocio |
-| 🚀 **Hosting y dominios** | Publicación, dominio propio y mantenimiento |
-| 🛠️ **Mantenimiento de notebooks y PCs** | Diagnóstico, reparación y puesta a punto |
+| Sitios web y landing pages | Presencia online rápida, clara y orientada a consultas |
+| Catálogos y menús digitales | Productos y precios actualizados en tiempo real |
+| Sistemas a medida | Gestión de clientes, turnos, stock o asistencias |
+| Hosting y dominios | Publicación, dominio propio y mantenimiento |
+| Mantenimiento de notebooks y PCs | Diagnóstico, reparación y puesta a punto |
 
 ---
 
-## 🧰 Stack actual
+## Tecnologías
 
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Base de datos**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Herramientas y deploy**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
-
-**Inteligencia artificial**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square)
-![AI Agents](https://img.shields.io/badge/Agentes_IA-7C3AED?style=flat-square)
-
-Uso IA como herramienta de trabajo para programar, estudiar y resolver problemas técnicos, y construí **[Sloth](https://github.com/Toomasmg/sloth)** para correr varias sesiones de Claude Code en paralelo.
-
-**Gestión y productividad**
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+| Área | Herramientas |
+|---|---|
+| Backend | Python, Flask |
+| Frontend | React, TypeScript, JavaScript, Vite, HTML, CSS |
+| Base de datos | MySQL, MySQL Workbench |
+| Control de versiones | Git, GitHub |
+| Deploy | Netlify, Hostinger |
+| Gestión de proyectos | Jira |
+| Inteligencia artificial | Claude, Claude Code |
+| Sistema operativo | Windows |
 
 ---
 
-## 🚀 Proyectos
+## Proyectos
 
-| Proyecto | Qué es | Stack |
+| Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| **[Impulsar Studio](https://github.com/Franv-Dev/ImpulsarStudio)** | Emprendimiento de desarrollo web para negocios | HTML · CSS · JavaScript |
-| **[Gestión de farmacia](https://github.com/Toomasmg/Gestion_farmacia_programacion)** | Sistema de gestión para farmacia | Programación |
-| **[Gestor de seguros](https://github.com/Toomasmg/gestor-seguros)** | Aplicación de gestión | Programación |
-| **[Guardian](https://github.com/Toomasmg/Guardian)** | Sistema web de gestión de clientes y licencias | HTML |
-| **[Sloth](https://github.com/Toomasmg/sloth)** | Herramienta para gestionar varias sesiones de Claude Code en paralelo | TypeScript |
-| **[Vinificación API](https://github.com/Toomasmg/vinificacion_api)** | API del proyecto de vinificación | Python |
+| [Impulsar Studio](https://github.com/Franv-Dev/ImpulsarStudio) | Desarrollo web para pequeños negocios | HTML, CSS, JavaScript |
+| [Gestión de farmacia](https://github.com/Toomasmg/Gestion_farmacia_programacion) | Sistema de gestión para farmacia | Programación |
+| [Gestor de seguros](https://github.com/Toomasmg/gestor-seguros) | Aplicación de gestión | Programación |
+| [Guardian](https://github.com/Toomasmg/Guardian) | Sistema web de gestión de clientes y licencias | HTML |
+| [Sloth](https://github.com/Toomasmg/sloth) | Herramienta para ejecutar varias sesiones de Claude Code en paralelo | TypeScript |
+| [Vinificación API](https://github.com/Toomasmg/vinificacion_api) | API del proyecto de vinificación | Python |
 
-> 🎓 **AsisTO**: sistema de gestión de asistencias y seguimiento terapéutico para terapia ocupacional. Reemplaza el papel por calendarios, objetivos medibles, evolución de pacientes y reportes. *(Proyecto académico en equipo.)*
+**AsisTO** (proyecto académico en equipo): sistema de gestión de asistencias y seguimiento terapéutico para terapia ocupacional, con calendarios, objetivos medibles, evolución de pacientes y reportes.
 
 ---
 
-## 📊 GitHub en números
+## Estadísticas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Toomasmg&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toomasmg&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Lenguajes" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Toomasmg&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=B91C1C&icon_color=B91C1C&text_color=111111" alt="Estadísticas de GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toomasmg&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=B91C1C&text_color=111111" alt="Lenguajes más usados" />
 
 </div>
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-¿Tenés un negocio que necesita presencia online o una herramienta a medida? **Escribime y lo charlamos.**
+Si tenés un negocio que necesita presencia online o una herramienta a medida, escribime y lo conversamos.
 
-<!-- Descomentá y completá con tu LinkedIn o email:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
+<!-- Completar con tu contacto profesional:
+- LinkedIn: https://linkedin.com/in/TU-USUARIO
+- Email: TU-EMAIL
 -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4C1D95&height=110&section=footer" width="100%" alt="Footer" />
-</div>
