@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7F1D1D"/>
+      <stop offset="0.55" stop-color="#B91C1C"/>
+      <stop offset="1" stop-color="#450A0A"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- base -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- light sweep across the banner, looping -->
+  <rect x="-300" y="0" width="260" height="300" fill="url(#shine)" transform="skewX(-20)">
+    <animate attributeName="x" values="-300;1400" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- frame draws itself -->
+  <rect x="24" y="24" width="1152" height="252" fill="none" stroke="#FFFFFF" stroke-opacity="0.22" stroke-width="1"
+        stroke-dasharray="2808" stroke-dashoffset="2808">
+    <animate attributeName="stroke-dashoffset" from="2808" to="0" dur="1.6s" begin="0s" fill="freeze"/>
+  </rect>
+
+  <!-- location label fades in -->
+  <text x="1120" y="92" text-anchor="end" font-family="Inter Display, Inter, Roboto, Arial, sans-serif"
+        font-weight="300" font-size="22" fill="#FFFFFF" letter-spacing="6" opacity="0">
+    MENDOZA · ARGENTINA
+    <animate attributeName="opacity" from="0" to="0.7" dur="0.8s" begin="0.4s" fill="freeze"/>
+  </text>
+
+  <!-- name slides up and fades in -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="0.6s" fill="freeze"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 30" to="0 0" dur="0.9s" begin="0.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
+      <text x="96" y="152" font-family="Inter Display, Inter, Roboto, Arial, sans-serif" font-weight="700"
+            font-size="80" fill="#FFFFFF" letter-spacing="-1.5">Tomás Muñoz</text>
+    </g>
+  </g>
+
+  <!-- accent line grows -->
+  <line x1="96" y1="178" x2="236" y2="178" stroke="#FFFFFF" stroke-width="2"
+        stroke-dasharray="140" stroke-dashoffset="140">
+    <animate attributeName="stroke-dashoffset" from="140" to="0" dur="0.7s" begin="1.3s" fill="freeze"/>
+  </line>
+
+  <!-- role fades in -->
+  <text x="96" y="222" font-family="Inter Display, Inter, Roboto, Arial, sans-serif" font-weight="400"
+        font-size="30" fill="#FFFFFF" letter-spacing="3" opacity="0">
+    DESARROLLADOR DE SOFTWARE
+    <animate attributeName="opacity" from="0" to="0.95" dur="0.8s" begin="1.6s" fill="freeze"/>
+  </text>
+
+  <!-- specialties fade in last -->
+  <text x="96" y="256" font-family="Inter Display, Inter, Roboto, Arial, sans-serif" font-weight="400"
+        font-size="18" fill="#FFFFFF" letter-spacing="2" opacity="0">
+    Desarrollo web · Sistemas a medida · Inteligencia artificial
+    <animate attributeName="opacity" from="0" to="0.65" dur="0.8s" begin="2.1s" fill="freeze"/>
+  </text>
+</svg>

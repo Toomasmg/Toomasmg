@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Tomás Muñoz - Desarrollador de Software" />
+<img src="assets/banner-animated.svg" width="100%" alt="Tomás Muñoz - Desarrollador de Software" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=B91C1C&center=true&vCenter=true&width=800&lines=Creo+sitios+web+que+venden;Automatizo+flujos+de+trabajo+con+IA;Construyo+sistemas+a+medida+para+negocios" alt="Frases animadas" />
 
 <br/>
 
