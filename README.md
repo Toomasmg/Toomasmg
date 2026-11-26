@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Hola%2C%20soy%20Tomy&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Hola%2C%20soy%20Tom%C3%A1s%20Mu%C3%B1oz&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Banner" />
 
 <a href="https://github.com/Toomasmg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Estudiante+de+Desarrollo+de+Software;Desarrollo+web+con+Python%2C+Flask+y+React;Creando+soluciones+reales+para+negocios" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 
 ## 👋 Sobre mí
 
-Soy **Tomás Muñoz (Tomy)**, estudiante de **Desarrollo de Software** en Mendoza, Argentina. Me gusta aprender haciendo proyectos reales: sistemas de gestión, bases de datos, interfaces web y APIs.
+Soy **Tomás Muñoz**, desarrollador de software en Mendoza, Argentina, terminando mis estudios de **Desarrollo de Software**. Me gusta aprender haciendo proyectos reales: sistemas de gestión, bases de datos, interfaces web y APIs.
 
 Trabajo con metodologías ágiles (User Stories, Backlog, Story Points) y busco que mis proyectos sean mantenibles, seguros y escalables.
 
