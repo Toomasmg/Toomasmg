@@ -57,6 +57,15 @@ Ayudo a negocios a **tener presencia digital profesional** y a **automatizar lo 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
 
+**Inteligencia artificial**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square)
+![AI Agents](https://img.shields.io/badge/Agentes_IA-7C3AED?style=flat-square)
+
+Uso IA como herramienta de trabajo para programar, estudiar y resolver problemas técnicos, y construí **[Sloth](https://github.com/Toomasmg/sloth)** para correr varias sesiones de Claude Code en paralelo.
+
 **Gestión y productividad**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
